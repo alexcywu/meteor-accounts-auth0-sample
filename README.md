@@ -6,7 +6,7 @@ Meteor's sample (Parties) using Auth0 as external login service
 ### Usage
 
 ~~~
-git clone https://github.com/auth0/meteor-accounts-auth0.git
+git clone https://github.com/auth0/meteor-accounts-auth0-sample.git
 cd meteor-accounts-auth0-sample
 mrt install
 meteor run
